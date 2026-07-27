@@ -121,3 +121,7 @@ using Jupyter Notebook or VS Code.
 ## 📄 License
 
 This project is created for educational and learning purposes.
+
+## Linkdin
+
+*https://www.linkedin.com/in/nishtha-varlani-2778803b3/overlay/1780691014208/single-media-viewer/?profileId=ACoAAGUK2XsBlvkJaH2WPNsHNBwjASnWuZWlO8Y&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BH%2B9dvHkuRyGXHjrsQWsrEg%3D%3D*
